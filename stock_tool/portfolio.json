@@ -1,0 +1,10 @@
+{
+  "AAPL": {
+    "shares": 2,
+    "avg_price": 262.8775
+  },
+  "AMZN": {
+    "shares": 1,
+    "avg_price": 232.07
+  }
+}
